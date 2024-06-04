@@ -16,7 +16,7 @@ const Home: FC = () => {
           <Button
             key={v.day}
             variant="outline"
-            colorScheme="green"
+            colorScheme="pink"
             justifyContent="start"
             isTruncated={true}
             onClick={() =>
